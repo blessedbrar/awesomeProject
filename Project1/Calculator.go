@@ -30,5 +30,5 @@ func main() {
 	default:
 		fmt.Println("Invalid Operation")
 	}
-	fmt.Printf("%d %s %d =%d", number1, operator, number2, output)
+	fmt.Printf("%d %s %d = %d", number1, operator, number2, output)
 }
